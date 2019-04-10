@@ -1,1 +1,1 @@
-# react-redux-demo
+# react-redux-thunk-demo
